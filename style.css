@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+body{
+    background-color: antiquewhite !important;
+}
+#form{
+    width: auto;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+label{
+    width: 140px;
+    display: inline-block;
+    margin:0.2cm;
+    font-size: 16px;
+    font-weight: bold;
+}
+input{
+    padding: 4px;
+    margin: 5px;
+    font-size: 16px;
+    border-radius: 10px;
+    border: 1px solid;
+}
+.food{
+    width: auto;
+    color: red;
+}
+.btn.btn-primary{
+margin-top: 7px;
+color: white;
+font-weight: bold;
+padding: 4px;
+background-color: black;
+}
+.btn.btn-primary:hover{
+   background-color: whitesmoke;
+   color: black;
+}
+button{
+    margin: 15px !important;
+    padding: 10px !important;
+}
